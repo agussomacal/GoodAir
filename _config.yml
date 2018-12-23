@@ -17,7 +17,7 @@ markdown: kramdown
 title:       "Deep Good Air"
 keywords:    "SinglePaged, jekyll, template, github, blog, single page"
 description: "An overview of the Deep Good Air initiative to lower pollution levels by efficiently planting trees in cities."
-source_link: "https://github.com/t413/SinglePaged"
+source_link: "https://agussomacal.github.io/GoodAir/" #"https://github.com/t413/SinglePaged"
 favicon:     #put a path like: "img/favicon.ico"
 touch_icon:  #put a path like: "img/apple-touch-icon.png"
 google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable)
@@ -32,6 +32,7 @@ colors:
   purple:    '#c869bf'
   orange:    '#fab125'
   turquoise: '#0fbfcf'
+  red: '#f80011'
 
 kramdown:
   auto_ids:  false

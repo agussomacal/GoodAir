@@ -1,0 +1,17 @@
+---
+title: "The Solution"
+bg: turquoise  #defined in _config.yml, can use html color like '#0fbfcf'
+color: black   #text color
+fa-icon: paint-brush
+---
+
+#### The solution.
+
+* Using tensorflow to train a deep neural network model to predict pollution levels given a tree planting schema over a city.
+** First, transform satelite images in 3d reconstruction space of a city or a land.
+** Second, using data of pollution levels of certain zones train a model to predict the pollution given a tree distribution and a architectural sourounding.
+** Using papers information generate greedy optimal solutions and evaluate pollution levels.
+** Find better solutions.
+
+
+

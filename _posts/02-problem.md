@@ -1,6 +1,6 @@
 ---
-title: "Art"
-bg: turquoise  #defined in _config.yml, can use html color like '#0fbfcf'
+title: "The Problem"
+bg: red  #defined in _config.yml, can use html color like '#0fbfcf'
 color: black   #text color
 fa-icon: paint-brush
 ---
@@ -9,3 +9,6 @@ fa-icon: paint-brush
 
 * Every year over 8 million people die due to air pollution.
 * Cities are the most endangered places.
+
+
+
