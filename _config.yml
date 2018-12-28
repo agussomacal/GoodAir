@@ -20,6 +20,7 @@ description: "Project to fight against pollution using Deep Learning in TensorFl
 source_link: "https://agussomacal.github.io/GoodAir"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
+pollutionicon: "img/pollutionIcon.jpg"
 google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable)
 
 
