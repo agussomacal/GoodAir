@@ -18,3 +18,8 @@ style: center
 
 {: .text-blue}
 
+
+
+<div class="icontain">
+	<iframe src="//www.youtube.com/embed/r_vQDa42tuM" allowfullscreen>	
+</iframe></div>
