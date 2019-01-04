@@ -16,7 +16,7 @@ markdown: kramdown
 ### content configuration ###
 title:       "GoodAir"
 keywords:    "pollution, air, deep learning, tensorflow, artificial intelligence"
-description: "Project to fight against pollution using Deep Learning in TensorFlow"
+description: "Project to fight against pollution using Deep Learning with TensorFlow"
 source_link: "https://agussomacal.github.io/GoodAir"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
