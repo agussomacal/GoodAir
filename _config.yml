@@ -33,7 +33,8 @@ colors:
   purple:    '#c869bf'
   orange:    '#fab125'
   turquoise: '#0fbfcf'
-  green2:    '#B1CC74'
+  gray:      '#b2b2b2'
+  greeny:    '#9acc76'
 
 kramdown:
   auto_ids:  false
