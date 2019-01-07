@@ -6,7 +6,7 @@ style: center
 ---
 
 
-# **_Deep Good Air initiative_**
+# **Deep Good Air initiative**
 
 {: .text-blue}
 ### **An overview of the Deep Good Air initiative to lower pollution levels by efficiently planting trees in cities.**
