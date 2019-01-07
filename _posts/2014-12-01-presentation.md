@@ -8,8 +8,10 @@ style: center
 
 # **Deep Good Air initiative**
 
+<!---
 {: .text-blue}
-### **An overview of the Deep Good Air initiative to lower pollution levels by efficiently planting trees in cities.**
+#### **An overview of the Deep Good Air initiative to lower pollution levels by efficiently planting trees in cities.**
+-->
 
 <!---
 <span class="fa-stack subtlecircle" style="font-size:200px; background:rgba(255,166,0,0.1)">
