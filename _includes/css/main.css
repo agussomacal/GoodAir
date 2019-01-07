@@ -268,15 +268,13 @@ nav ul li:hover, nav ul li.active {
 }
 .post-thumb {
     float: left;
-    width: 500px;
-    height: 250px;
-    border-radius: 100%;
+    width: 250px;
 }
 .post-thumb img {
     display: block
 }
 .post-content {
-    margin-left: 210px
+    width: 250px;
 }
 .post-title {
     font-weight: bold;
