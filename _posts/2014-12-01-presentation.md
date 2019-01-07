@@ -11,15 +11,16 @@ style: center
 {: .text-blue}
 ### **An overview of the Deep Good Air initiative to lower pollution levels by efficiently planting trees in cities.**
 
+<!---
 <span class="fa-stack subtlecircle" style="font-size:200px; background:rgba(255,166,0,0.1)">
   <i class="fa fa-circle fa-stack-2x text-purple"></i>
   <i class="fa fa-tree fa-stack-1x text-green"></i>
 </span>
 
 {: .text-blue}
-
+-->
 
 
 <div class="icontain">
-	<iframe src="//www.youtube.com/embed/r_vQDa42tuM" allowfullscreen>	
+	<iframe src="//www.youtube.com/embed/r_vQDa42tuM" allowfullscreen>
 </iframe></div>
