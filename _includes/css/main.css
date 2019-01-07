@@ -75,7 +75,6 @@ hr {
 }
 .container p, .container ol, .container ul {
   font-size: 20px;
-  line-height: 20px;
   padding: 0 5%;
 
 }
@@ -140,7 +139,8 @@ nav ul li {
   padding: {{navborder}}px;
   *display:inline;
   zoom:1;
-  line-height:normal;
+/* line-height:normal; */
+  line-height: 1.5;
   letter-spacing:normal;
   text-transform:uppercase;
   min-width:110px;
