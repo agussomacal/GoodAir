@@ -36,7 +36,7 @@ colors:
   gray:       '#b2b2b2'
   greeny:     '#9acc76'
   lightgray:  '#daddd8'
-  azull:      '#b9cfd4'
+  testcolor:  '#fab125'
   whowecolor: '#91bdc6'
 
 kramdown:
