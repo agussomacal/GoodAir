@@ -76,7 +76,7 @@ hr {
 .container p, .container ol, .container ul {
   font-size: 20px;
   padding: 0 5%;
-  line-height: 1.5;
+  line-height: 4px;
 }
 .container ol, .container ul { padding: 0 8%; }
 .container p:first-of-type {
