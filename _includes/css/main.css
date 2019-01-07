@@ -262,8 +262,9 @@ nav ul li:hover, nav ul li.active {
 
 /* ----- custom styles ----- */
 
-.post-container_left {
+.post-container {
     margin: 20px 20px 0 0;
+    padding: 1% 10%
     border: 0px;
     outline: none;
 }
@@ -282,11 +283,6 @@ nav ul li:hover, nav ul li.active {
     font-size: 120%
 }
 
-.post-container_right {
-    margin: 20px 20px 0 0;
-    border: 0px;
-    outline: none;
-}
 .post-thumb_right {
     float: right;
     width: 250px;
