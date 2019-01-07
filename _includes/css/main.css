@@ -261,26 +261,45 @@ nav ul li:hover, nav ul li.active {
 
 /* ----- custom styles ----- */
 
-.post-container {
+.post-container_left {
     margin: 20px 20px 0 0;
     border: 0px;
     outline: none;
 }
-.post-thumb {
+.post-thumb_left {
     float: left;
     width: 250px;
 }
-.post-thumb img {
+.post-thumb_left img {
     display: block
 }
-.post-content {
+.post-content_left {
     margin-left: 250px
 }
-.post-title {
+.post-title_left {
     font-weight: bold;
     font-size: 120%
 }
 
+.post-container_right {
+    margin: 20px 20px 0 0;
+    border: 0px;
+    outline: none;
+}
+.post-thumb_right {
+    float: rigth;
+    width: 250px;
+}
+.post-thumb_right img {
+    display: block
+}
+.post-content_right {
+    margin-right: : 250px
+}
+.post-title_right {
+    font-weight: bold;
+    font-size: 120%
+}
 
 /* ----- fork on github banner ----- */
 #forkongithub a {
