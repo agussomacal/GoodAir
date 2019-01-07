@@ -266,7 +266,10 @@ nav ul li:hover, nav ul li.active {
     border: 0px
 }
 .post-thumb {
-    float: left
+    float: left;
+    width: 500px;
+    height: 250px;
+    border-radius: 100%;
 }
 .post-thumb img {
     display: block
@@ -276,7 +279,7 @@ nav ul li:hover, nav ul li.active {
 }
 .post-title {
     font-weight: bold;
-    font-size: 200%
+    font-size: 120%
 }
 
 
