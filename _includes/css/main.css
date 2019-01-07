@@ -270,13 +270,13 @@ nav ul li:hover, nav ul li.active {
 }
 .post-thumb_left {
     float: left;
-    width: 250px;
+    width: 30%;
 }
 .post-thumb_left img {
     display: block
 }
 .post-content_left {
-    margin-left: 250px
+    margin-left: 30%
 }
 .post-title_left {
     font-weight: bold;
@@ -285,13 +285,13 @@ nav ul li:hover, nav ul li.active {
 
 .post-thumb_right {
     float: right;
-    width: 250px;
+    width: 30%;
 }
 .post-thumb_right img {
     display: block
 }
 .post-content_right {
-    margin-right: : 250px
+    margin-right: : 30%
 }
 .post-title_right {
     font-weight: bold;
