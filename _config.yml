@@ -35,7 +35,7 @@ colors:
   turquoise: '#0fbfcf'
   gray:      '#b2b2b2'
   greeny:    '#9acc76'
-  redy:      '#d8afa9'
+  redy:      '#D8A9A2'
 
 kramdown:
   auto_ids:  false
