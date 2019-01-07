@@ -139,8 +139,7 @@ nav ul li {
   padding: {{navborder}}px;
   *display:inline;
   zoom:1;
-/* line-height:normal; */
-  line-height: 1.5;
+  line-height: normal;
   letter-spacing:normal;
   text-transform:uppercase;
   min-width:110px;
