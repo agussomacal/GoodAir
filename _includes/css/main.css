@@ -274,7 +274,7 @@ nav ul li:hover, nav ul li.active {
     display: block
 }
 .post-content {
-    width: 250px;
+    margin-left: 250px
 }
 .post-title {
     font-weight: bold;
